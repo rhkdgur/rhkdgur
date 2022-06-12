@@ -18,3 +18,6 @@
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 </p>
+
+![rhkdgur's github stats](https://github-readme-stats.vercel.app/api?username=rhkdgur&show_icons=true)
+[![rhkdgur's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=고광혁ID&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/rhkdgur)
