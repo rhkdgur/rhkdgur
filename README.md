@@ -19,5 +19,5 @@
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 </p>
 
-![Go Gwang Hyeok's github stats](https://github-readme-stats.vercel.app/api?username=rhkdgur&show_icons=true)
-[![Go Gwang Hyeok's github stats](https://github-readme-stats.vercel.app/api/top-langs/?
+![rhkdgur's github stats](https://github-readme-stats.vercel.app/api?username=rhkdgur&show_icons=true)
+[![rhkdgur's github stats](https://github-readme-stats.vercel.app/api/top-langs/?
