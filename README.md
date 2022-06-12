@@ -20,4 +20,4 @@
 </p>
 
 ![rhkdgur's github stats](https://github-readme-stats.vercel.app/api?username=rhkdgur&show_icons=true)
-[![rhkdgur's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=고광혁ID&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/rhkdgur)
+[![rhkdgur's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rhkdgur&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/rhkdgur)
