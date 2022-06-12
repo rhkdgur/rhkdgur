@@ -1,5 +1,3 @@
-<h3 align="center"><b>![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=WELCOME&fontSize=80)</b></h3></br>
-
 <h3 align="center"><b>rhkdgur : 백엔드 웹 프로그래머</b></h3></br>
 <h3 align="center"><b>프로그램 개발에 관심이 많은 프로그래머입니다.</b></h3><br/><br/>
 
