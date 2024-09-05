@@ -1,5 +1,24 @@
-<h3 align="center"><b>rhkdgur : 백엔드 개발자</b></h3></br>
-<h4 align="center"><b>프로그램 개발에 관심이 많은 프로그래머입니다.</b></h4><br/>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frhkdgur&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Gwang+Hyeok!;" />
+</h1>
+
+<h3 align="center"><b>BackEnd Developer</b></h3></br>
+<h4 align="center"><b>개발에 관심이 많은 프로그래머입니다.</b></h4><br/>
+
+<div align="center"> 
+  <a href="rhkdgur195@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/%EA%B4%91%ED%98%81-%EA%B3%A0-44b079326" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://ghgo195.tistory.com/" target="_blank">
+     <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/>
+  </a>
+</div>
+<br/>
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
@@ -24,5 +43,25 @@
 </p>
 <br/>
 
-![rhkdgur's github stats](https://github-readme-stats.vercel.app/api?username=rhkdgur&show_icons=true)
-[![rhkdgur's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rhkdgur&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/rhkdgur)
+<div align="center">
+    <table align="center">
+    <tr border="none">
+    <td width="50%" height="auto" align="left">   
+ </div>
+
+ <div align="center">
+     <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=rhkdgur&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+</td>
+    <td width="50%" align="center">
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=rhkdgur&count_private=true&theme=react&border_radius=10" alt="streak stats"/> 
+    
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=rhkdgur&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  </div> 
+  </td>
+</tr>
+</table>
