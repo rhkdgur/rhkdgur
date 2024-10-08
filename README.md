@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://ghgo195.tistory.com/" target="_blank">
-     <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/>
+     <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-orange.svg?&style=for-the-badge"/>
   </a>
 </div>
 <br/>
