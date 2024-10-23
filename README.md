@@ -17,7 +17,7 @@
   <a href="https://ghgo195.tistory.com/" target="_blank">
      <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-orange.svg?&style=for-the-badge"/>
   </a>
-  <a href="https://valiant-guavaberry-930.notion.site/11e2e562bbf180a6819fcf1eae6f2848" target="_blank">
+  <a href="https://valiant-guavaberry-930.notion.site/11e2e562bbf180a6819fcf1eae6f2848?pvs=4" target="_blank">
      <img alt="Notion" src ="https://img.shields.io/badge/Notion-logo.svg?&logo=notion&style=for-the-badge"/>
   </a>
 </div>
